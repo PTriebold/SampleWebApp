@@ -1,0 +1,16 @@
+{
+  "name": "Aldiana Fuerteventura PWA",
+  "short_name": "Aldiana Fuerteventura",
+  "description": "Ein PWA wrapper für die Aldiana Fuerteventura Web app, mit der ich persönlich nichts zu tun habe.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://iq-holiday.com/Document/Image?type=png&width=512&height=512&key=5d1e6d8b-c224-4ac3-985b-93936fc32f9f",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
