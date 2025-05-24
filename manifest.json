@@ -2,7 +2,7 @@
   "name": "Aldiana Fuerteventura PWA",
   "short_name": "Aldiana Fuerteventura",
   "description": "Ein PWA wrapper für die Aldiana Fuerteventura Web app, mit der ich persönlich nichts zu tun habe.",
-  "start_url": "/",
+  "start_url": "/SampleWebApp/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",

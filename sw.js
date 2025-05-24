@@ -1,13 +1,13 @@
 const CACHE_NAME = 'my-website-pwa-cache-v1';
 const urlsToCache = [
-  '/', // The main page
-  '/index.html', // Or your specific start URL if different
+  '/SampleWebApp/', // The main page
+  '/SampleWebApp/index.html', // Or your specific start URL if different
   // Add other essential files like:
   // '/style.css',
   // '/script.js',
   // '/icon-192x192.png',
   // '/icon-512x512.png',
-  '/manifest.json' // It's good to cache the manifest too
+  '/SampleWebApp/manifest.json' // It's good to cache the manifest too
 ];
 
 // Install event: cache the app shell
